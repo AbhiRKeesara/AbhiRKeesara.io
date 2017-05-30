@@ -10,7 +10,7 @@
 				"email": "abhinayreddy_keesara@student.uml.edu",
 				"github": "AbhiRKeesara",
 				"twitter": "AbhiRKeesara1",
-				"Location": "Des Plained, IL."
+				"Location": "Des Plaines, IL."
 			},
 
 			"skills": ["HTML","CSS","JS","Swift","Objective-C","Python","C"],
