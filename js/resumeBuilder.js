@@ -13,7 +13,7 @@
 				"Location": "Des Plaines, IL."
 			},
 
-			"skills": ["HTML","CSS","JS","Swift","Objective-C","Python","C"],
+			"skills": ["HTML","CSS","JS","Swift","Objective-C","Python","C","Java","Selenium","Appium"],
 			"welcomeMessage": "Hello!, And welcome to my personal portfolio",
 			"bioPic": "images/me.jpg"
 			}
